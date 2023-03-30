@@ -1,0 +1,30 @@
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.exe
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.deps.json
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.runtimeconfig.json
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.dll
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.pdb
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.csproj.AssemblyReference.cache
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.GeneratedMSBuildEditorConfig.editorconfig
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.AssemblyInfoInputs.cache
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.AssemblyInfo.cs
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.csproj.CoreCompileInputs.cache
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.dll
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\refint\MyBankDigiral.dll
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.pdb
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.genruntimeconfig.cache
+D:\labs\ProjectMVC\Caixa Eletronico\MyBankDigiral\MyBankDigiral\obj\Debug\net6.0\ref\MyBankDigiral.dll
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.csproj.AssemblyReference.cache
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.GeneratedMSBuildEditorConfig.editorconfig
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.AssemblyInfoInputs.cache
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.AssemblyInfo.cs
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.csproj.CoreCompileInputs.cache
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.dll
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\refint\MyBankDigiral.dll
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.pdb
+F:\GIT\MyBankDigital\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.exe
+F:\GIT\MyBankDigital\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.deps.json
+F:\GIT\MyBankDigital\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.runtimeconfig.json
+F:\GIT\MyBankDigital\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.dll
+F:\GIT\MyBankDigital\MyBankDigiral\bin\Debug\net6.0\MyBankDigiral.pdb
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\MyBankDigiral.genruntimeconfig.cache
+F:\GIT\MyBankDigital\MyBankDigiral\obj\Debug\net6.0\ref\MyBankDigiral.dll

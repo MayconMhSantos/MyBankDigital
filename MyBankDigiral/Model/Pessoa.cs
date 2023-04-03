@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyBankDigiral.Model
 {
-    public class Pessoa
+    public class Pessoa : Conta
     {
         public string Nome { get;private set; }
         public string CPF { get; private set; }
@@ -28,5 +28,6 @@ namespace MyBankDigiral.Model
         {
             this.Senha = senha;
         }
+
     }
 }

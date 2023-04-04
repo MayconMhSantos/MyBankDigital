@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyBankDigiral.Model;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,8 @@ namespace MyBankDigiral.Interface
         string GetNumeroAgencia();
         string GetNumeroConta();
         string GetNomeBanco();  
+
+        List<Extrato> Extrato();
 
     }
 }

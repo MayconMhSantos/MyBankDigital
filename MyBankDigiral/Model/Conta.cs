@@ -12,24 +12,36 @@ namespace MyBankDigiral.Model
 
         public Conta() 
         {
-            this.NumeroConta = "0001";
             this.NumeroAgencia = "7070-15";
             Conta.NumeroDaContaSequencial++;
+
+            // toda vez que passa no construtora ira criar uma lista de movimentação para nossa conta.
+            this.Movimentacoes = new List<Extrato>();
         }
 
         public double Saldo { get; protected set; }
         public string NumeroAgencia { get; private set; }
         public string NumeroConta { get; protected set; }
 
-
         //Static Não faz mais parte do Objeto e Sim da Classe então para chamar utilise "CONTA.Numero....."
         public static int NumeroDaContaSequencial { get; private set; }
+
+
+        // Não vou inserir Get and Set, póis apenas esta classe alterará este Atributo LISTA.
+        private List<Extrato> Movimentacoes;
+
+
 
         //----------Method SACAR-------------
         public bool Sacar(double valor)
         {
             if (valor > this.ConsultaSaldo())
                 return false;
+
+            //Pegando Hora Atual
+            DateTime dataAtual = DateTime.Now;
+            // inserindo dentro da LISTA Movime... um novo objeto Extrato intanciando e inserindo na Lista Moviment....
+            this.Movimentacoes.Add(new Extrato(dataAtual, "SAQUE", -valor));   
 
             this.Saldo -= valor;
             return true;
@@ -38,6 +50,10 @@ namespace MyBankDigiral.Model
         //----------Method DEPOSITAR-------------
         public void Depositar(double valor)
         {
+            //Pegando Hora Atual
+            DateTime dataAtual = DateTime.Now;
+            // inserindo dentro da LISTA Movime... um novo objeto Extrato intanciando e inserindo na Lista Moviment....
+            this.Movimentacoes.Add(new Extrato(dataAtual, "DEPOSITO", valor));
             this.Saldo += valor;
         }
 
@@ -71,7 +87,9 @@ namespace MyBankDigiral.Model
             return this.CodigoBanco;
         }
 
-
-
+        public List<Extrato> Extrato()
+        {
+            return this.Movimentacoes;
+        }
     }
 }
